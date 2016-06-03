@@ -1,0 +1,10 @@
+{
+  "name": "html_meteor_clasp",
+  "private": true,
+  "scripts": {
+    "start": "meteor --port 3901"
+  },
+  "dependencies": {
+    "meteor-node-stubs": "~0.2.0"
+  }
+}
